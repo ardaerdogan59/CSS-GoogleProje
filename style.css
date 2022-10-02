@@ -1,0 +1,154 @@
+/* Body - Font */
+body{
+    font-family: arial,sans-serif;
+}
+/* ********** */
+
+/* Header - A - Menu */
+header a{
+    text-decoration: none;
+    color:black;
+    font-size: 13px;
+    padding-left: 15px;
+    display: inline-block;
+    opacity: 0.75;
+    padding-top: 15px;
+    padding-right: 10px;
+    text-align: center;
+}
+.account{
+    float: right;
+    padding-right: 15px;
+    height: 30px;
+  }
+  .signbutton{
+    background-color: #4885ed;
+    color: #fff;
+    border:none;
+    border-radius:2px;
+    padding:7px 10px;
+    position:relative;
+    font-weight:bold;
+}
+.grid{
+    height: 25px;
+    position:relative; 
+    margin-left: 15px;
+    margin-right: 15px;
+ }
+
+/* ********** */
+
+/* Logo - İmg */
+.logo{
+    text-align: -webkit-center;
+    padding-top: 116px;
+}
+/* ********** */
+
+/* Searchbar */
+.searchbar{
+    height: 52px;
+    width: 1139px;
+    text-align: center;
+}
+.bar{
+    margin:0 auto;
+    width:575px;
+    border-radius:30px;
+    height: 44px;
+    border:1px solid #dcdcdc;
+    margin-top: 22px;
+    padding-left: 10px;
+}
+.bar:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+.search{
+    width: 487px;
+    height: 34px;
+    border: none;
+    outline: none;
+    font: 17px arial,sans-serif;
+    line-height: 34px;background-color: transparent;
+    border: none;
+    margin-top: 5px;
+}
+.voice{
+    height:20px;
+    position:relative;
+    top:5px;
+    left:3px;
+    width: 14px;
+}
+.glass{
+    height: 18px;
+    width: 18px;
+    position: relative;
+    float: left;
+    top: 14px;
+    left: 5px;
+    opacity: 0.70;
+}
+/* ********** */
+
+/* Button */
+.button{
+    background-color: #f5f5f5;
+    border:none;
+    color:#707070;
+    font-size:14px;
+    padding: 10px 19px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius:4px;
+    outline:none;
+}
+.button:hover{
+        border: 1px solid #c8c8c8;
+        padding: 9px 19px;
+        color:#808080;
+    }
+ /* ********** */
+
+ /* Footer */
+ footer  {
+bottom:0px;
+position:fixed;
+font-size: 14px;
+margin-left: -10px;
+background-color: #f2f2f2;
+border-top: 1px solid #cfcfcf;
+
+ }
+.fa {
+ width: 1393px;
+ height: 40px;
+ line-height: 40px;
+
+  }
+.fa a {
+    color: #5f6368;
+    text-decoration: none;
+    padding-left: 27px;
+    margin: 0 !important;
+    font-family: arial,sans-serif;
+    display: inline-block;
+    white-space: nowrap;
+}
+.fb a{
+    color: #5f6368;
+    text-decoration: none;
+    padding-left: 27px;
+    margin: 0 !important;
+    font-family: arial,sans-serif;
+    display: inline-block;
+    white-space: nowrap;
+   
+}
+.fb{
+    float: right;
+    padding-right: 50px;
+    margin-right: 10px;
+}
+/* ********* */
